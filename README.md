@@ -17,4 +17,5 @@ App.css: This file contains our styling code for our random quote generator app.
 Steps to run the application:
 Step 1: Type the following command in your command line
 npm start
-Step 2: Open http://localhost:3000/ URL in the browser. It will display the result.
+Step 2: Open http://localhost:3000/ URL in the browser.
+It will display the result.
